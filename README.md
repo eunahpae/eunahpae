@@ -1,8 +1,10 @@
 
 
-#  WELCOME to EUNAH's Github🍀
+<h1 align="center">🍀WELCOME to EUNAH's Github🍀</h1>
 
-## 안녕하세요, 배은아입니다.
+<h2 align="center">안녕하세요, 배은아입니다. 
+<!-- [Go to Portfolio](https://eunahpae.github.io/portfolio/) --></h2>
+<br>
 
 <p align="center"><img src="./img/믿음.png"></p>
 
