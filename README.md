@@ -4,7 +4,7 @@
 
 ## 안녕하세요, 배은아입니다.
 
-<img src="./img/Golde33443.jpg">
+<p align="center"><img src="./img/Golde33443.jpg"></p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
