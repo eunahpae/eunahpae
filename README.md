@@ -4,7 +4,7 @@
 
 ## 안녕하세요, 배은아입니다.
 
-<p align="center"><img src="./img/인생.png"></p>
+<p align="center"><img src="./img/믿음.png"></p>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
